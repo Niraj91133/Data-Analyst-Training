@@ -42,11 +42,11 @@
 * **Day 1 - Topic 2 Quiz:**
   * **Score:** 3 / 3 (100% Perfect!).
   * **Analytical Intuition:** Table ka size poochne par Bittu ne `6x3` likha. 
-* **Day 2 - Topic 1 Quiz (Observations & Weak Spots):**
-  * **Q1 (A4):** Sahi pehchana (`Bittu`). Given coordinate se data nikalna samajh gaya.
-  * **Q2 (Maggi ka address):** Bittu ne likha `row 5`. Row sahi pakdi, lekin Column letter chhoot gaya. Postman analogy se clear karna hai ki sirf makaan no. nahi, gali ka naam bhi chahiye (`B5`).
-  * **Q3 (Range):** Bittu ne colon `:` yaad rakha (`cA:cc`), jo bahut achhi baat hai! Lekin Cell address coordinate (C2 aur C5) mein confusion hua. Range = `StartCell:EndCell` (`C2:C5`).
-  * **Status:** In Progress. Re-test required before moving to Topic 2.
+* **Day 2 - Topic 1 Quiz (Observations & Progress):**
+  * **Major Breakthrough 1 (Range):** Bittu ne Q3 mein `C2:C5` bilkul 100% sahi range likha! `cA:cc` se seedhe `C2:C5` — concept clear ho gaya!
+  * **Major Breakthrough 2 (Cell Syntax):** `row 5` ke badle ab [Letter + Number] (`C3`) format samajh aa gaya.
+  * **Visual Grid Alignment Check:** Kaju Katli (A3) ke liye usne `C3` (Price wala column) pick kiya. B4 (jo ki 3 hai) ke liye 4 likha. Grid crosshair (Column aur Row ka milan) visual guide karna hai.
+  * **Status:** Range Mastered! Cell Coordinate intersection final verification in progress.
 
 ---
 
