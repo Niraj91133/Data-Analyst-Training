@@ -71,3 +71,4 @@ Table ke do sabse bade pillars hote hain:
   * **Bittu's Answer:** `60` (3 x 20) ✅ *(Calculation on point)*
 * **Q5:** Table ka size kya hai?  
   * **Bittu's Answer:** `6x3` ✅ *(Analytical dimension thinking)*
+

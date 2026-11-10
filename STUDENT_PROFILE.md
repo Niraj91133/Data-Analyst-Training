@@ -41,9 +41,12 @@
   * **Learning Pattern:** Concrete thinker. Value vs Data Type ka farq clear kiya gaya.
 * **Day 1 - Topic 2 Quiz:**
   * **Score:** 3 / 3 (100% Perfect!).
-  * **Analytical Intuition:** Table ka size poochne par Bittu ne `6x3` likha (6 Columns x 3 Rows) — ye pure mathematical aur analytical dimaag ki nishani hai!
-  * **Insight Reading:** Row 2 se data aur boolean condition (Na/False) jod kar ₹110 ka udhaar turant pakad liya.
-  * **Result:** Day 1 Foundation 100% Complete & Mastered!
+  * **Analytical Intuition:** Table ka size poochne par Bittu ne `6x3` likha. 
+* **Day 2 - Topic 1 Quiz (Observations & Weak Spots):**
+  * **Q1 (A4):** Sahi pehchana (`Bittu`). Given coordinate se data nikalna samajh gaya.
+  * **Q2 (Maggi ka address):** Bittu ne likha `row 5`. Row sahi pakdi, lekin Column letter chhoot gaya. Postman analogy se clear karna hai ki sirf makaan no. nahi, gali ka naam bhi chahiye (`B5`).
+  * **Q3 (Range):** Bittu ne colon `:` yaad rakha (`cA:cc`), jo bahut achhi baat hai! Lekin Cell address coordinate (C2 aur C5) mein confusion hua. Range = `StartCell:EndCell` (`C2:C5`).
+  * **Status:** In Progress. Re-test required before moving to Topic 2.
 
 ---
 
@@ -57,3 +60,4 @@
 - [ ] **Day 3:** Basic Formulas - SUM, AVERAGE, COUNT, IF Conditions
 - [ ] **Day 4:** Lookup Magic - VLOOKUP & XLOOKUP (Do tables ko aapas mein jodna)
 - [ ] **Day 5:** Pivot Tables - Business Summary ka jaadu (Phase 1 Boss Fight Test)
+

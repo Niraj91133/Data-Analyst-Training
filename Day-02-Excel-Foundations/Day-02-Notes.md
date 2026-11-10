@@ -39,3 +39,4 @@ Jab hume ek line se kai gharon ko ek sath select karna ho:
 1. Cell `A4` ke andar kiska naam likha hua hai?
 2. "Maggi" kis cell ke andar baithi hui hai? (Address kya hai?)
 3. Sonu se lekar Bunty tak sabhi ke bill (prices: 10 se 40) ka total nikalne ke liye Excel ko kaun si Range denge?
+
