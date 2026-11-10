@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Topic 1: Cell, Cell Address aur Range (Excel Ka GPS System)
+## 📌 Topic 1: Cell, Cell Address aur Range (Excel Ka GPS System) - [MASTERED ✅]
 
 Computer ko kisi data ko dhoondhne ke liye **Address** chahiye hota hai.
 
@@ -14,29 +14,33 @@ Jab **Gali B** aur **Plot 3** aapas mein aakar takrate hain:
 * Us dabbe ko Excel mein bolte hain: **"Cell"**.
 * Us dabbe ka pata (Address) hota hai: **B3** (Column pehle, Row baad mein).
 
+### 💡 Golden Rule:
+* **Letter (A, B, C...) hamesha CHHAT (Upar) se aata hai.**
+* **Number (1, 2, 3...) hamesha DEEWAR (Left) se aata hai.**
+
 ---
 
-## 🔗 "Range" Kya Hoti Hai? (Mohalle Ka Ek Tukda)
+## 🔗 "Range" Kya Hoti Hai? (Mohalle Ka Ek Tukda) - [MASTERED ✅]
 Jab hume ek line se kai gharon ko ek sath select karna ho:
 * Excel mein **"se lekar"** ko do bindiya **`:` (Colon)** se dikhate hain.
-* Jaise: **`B2:B5`** (Matlab: *B2 se lekar B5 tak ke saare cells*).
+* Jaise: **`C2:C5`** (Matlab: *C2 se lekar C5 tak ke saare cells*).
 
 ---
 
-## 📊 Excel Sheet Map:
+## 📌 Topic 2: Sorting (Line Lagana) & Filtering (Chhanni Lagana) - [IN PROGRESS 🟡]
 
-| | **Column A** (Grahak) | **Column B** (Item) | **Column C** (Price ₹) |
-| :---: | :--- | :--- | :---: |
-| **Row 1 (Headings)** | Name | Product | Price |
-| **Row 2** | Sonu | Chai | 10 |
-| **Row 3** | Monu | Samosa | 15 |
-| **Row 4** | Bittu | Cold Drink | 25 |
-| **Row 5** | Bunty | Maggi | 40 |
+Jab table mein hazaaron rows aa jaati hain, toh data bikhra hua lagta hai. Iski safai ke do sabse bade hathiyar hain:
 
----
+### 1. Sorting (Line Lagana / Ek Kram Mein Sajana)
+* **A to Z (Ascending / Chhote se Bada):**
+  * Jaise school assembly mein: Sabse kam height wala bacha aage, sabse lamba piche.
+  * Price: ₹10 se shuru hokar ₹10,000 tak.
+* **Z to A (Descending / Bade se Chhota):**
+  * Jaise exam result ya cricket leaderboard: Sabse zyada runs/marks sabse upar, sabse kam niche.
+* ⚠️ **Zaroori Baat:** Jab aap kisi row ko sort karte ho, toh poori row ek sath move hoti hai (naam ke sath uska run aur city bhi hilta hai).
 
-## 🎯 Topic 1 Mastery Quiz (Pending Bittu's Answer)
-1. Cell `A4` ke andar kiska naam likha hua hai?
-2. "Maggi" kis cell ke andar baithi hui hai? (Address kya hai?)
-3. Sonu se lekar Bunty tak sabhi ke bill (prices: 10 se 40) ka total nikalne ke liye Excel ko kaun si Range denge?
-
+### 2. Filtering (Chhanni Lagana / Kaam Ki Cheez Chhanna)
+* Jaise chai banate waqt chhalni lagate hain taaki sirf chai cup mein aaye aur patti chhan jaye.
+* Data mein Filtering ka matlab: **"Mujhe sirf wahi data dikhao jo main maang raha hoon, baki sabko temporary chhupa do!"**
+* *Example:* 10,000 orders mein se sirf "Mumbai" ke orders dekhna.
+* Data delete nahi hota, bas baki ka data parde ke peeche chup jata hai.

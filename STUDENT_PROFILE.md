@@ -41,14 +41,11 @@
   * **Learning Pattern:** Concrete thinker. Value vs Data Type ka farq clear kiya gaya.
 * **Day 1 - Topic 2 Quiz:**
   * **Score:** 3 / 3 (100% Perfect!).
-  * **Analytical Intuition:** Table ka size poochne par Bittu ne `6x3` likha. 
-* **Day 2 - Topic 1 Quiz (Deep Pattern Analysis):**
-  * **Coordinate -> Value Lookup (Mastered):** Cell `B4` poocha toh Bittu ne instant `50` sahi bataya! Coordinate se table mein value dhoondhna aa gaya.
-  * **Value -> Coordinate Mystery (C3 Pattern):** 
-    - Kaju Katli (Row 3, Column A) -> Bittu wrote `C3`.
-    - Virat (Row 3, Column A) -> Bittu wrote `C3` again!
-    - **Cognitive Insight:** Dono baar Row 3 ki cheez ke liye `C3` likha jabki Column A tha. Ya toh "Cell 3 = C3" soch rahe hain ya Row 1=A, Row 2=B, Row 3=C soch rahe hain.
-  * **Status:** Pattern identified. One final friendly alignment needed for Topic 1.
+  * **Analytical Intuition:** Table ka size poochne par Bittu ne `6x3` likha.
+* **Day 2 - Topic 1 Quiz (Breakthrough Achieved!):**
+  * **Range Concept:** `C2:C5` ek baari mein sahi likha.
+  * **Cell Concept:** Pehle `C3` likhne ka confusion pakda gaya (Cell 3 soch rahe the). "Chhat (Letter) + Deewar (Number)" rule samjhate hi Bittu ne instant `A2` sahi answer diya!
+  * **Result:** Day 2 Topic 1 officially **100% MASTERED ✅**!
 
 ---
 
@@ -57,8 +54,8 @@
 ### Phase 1: Data Foundations & Excel
 - [x] **Day 1, Topic 1:** Data Asal Mein Hota Kya Hai? (Raw Data vs Information, Data Types: Number, Text, Boolean) - **[MASTERED ✅]**
 - [x] **Day 1, Topic 2:** Columns, Rows, aur Tables ka asli matlab (Data Ko Sajaana) - **[MASTERED ✅]**
-- [ ] **Day 2, Topic 1:** Excel Ka Pata - Cell, Cell Address (A1, B2) aur Range (A1:A10) - **[IN PROGRESS 🟡]**
-- [ ] **Day 2, Topic 2:** Sorting (Line Lagana) & Filtering (Chhanni Lagana) - Bikhre Data Ki Safai
+- [x] **Day 2, Topic 1:** Excel Ka Pata - Cell, Cell Address (A1, B2) aur Range (A1:A10) - **[MASTERED ✅]**
+- [ ] **Day 2, Topic 2:** Sorting (Line Lagana) & Filtering (Chhanni Lagana) - Bikhre Data Ki Safai - **[IN PROGRESS 🟡]**
 - [ ] **Day 3:** Basic Formulas - SUM, AVERAGE, COUNT, IF Conditions
 - [ ] **Day 4:** Lookup Magic - VLOOKUP & XLOOKUP (Do tables ko aapas mein jodna)
 - [ ] **Day 5:** Pivot Tables - Business Summary ka jaadu (Phase 1 Boss Fight Test)
