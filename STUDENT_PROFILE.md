@@ -42,11 +42,13 @@
 * **Day 1 - Topic 2 Quiz:**
   * **Score:** 3 / 3 (100% Perfect!).
   * **Analytical Intuition:** Table ka size poochne par Bittu ne `6x3` likha. 
-* **Day 2 - Topic 1 Quiz (Observations & Progress):**
-  * **Major Breakthrough 1 (Range):** Bittu ne Q3 mein `C2:C5` bilkul 100% sahi range likha! `cA:cc` se seedhe `C2:C5` — concept clear ho gaya!
-  * **Major Breakthrough 2 (Cell Syntax):** `row 5` ke badle ab [Letter + Number] (`C3`) format samajh aa gaya.
-  * **Visual Grid Alignment Check:** Kaju Katli (A3) ke liye usne `C3` (Price wala column) pick kiya. B4 (jo ki 3 hai) ke liye 4 likha. Grid crosshair (Column aur Row ka milan) visual guide karna hai.
-  * **Status:** Range Mastered! Cell Coordinate intersection final verification in progress.
+* **Day 2 - Topic 1 Quiz (Deep Pattern Analysis):**
+  * **Coordinate -> Value Lookup (Mastered):** Cell `B4` poocha toh Bittu ne instant `50` sahi bataya! Coordinate se table mein value dhoondhna aa gaya.
+  * **Value -> Coordinate Mystery (C3 Pattern):** 
+    - Kaju Katli (Row 3, Column A) -> Bittu wrote `C3`.
+    - Virat (Row 3, Column A) -> Bittu wrote `C3` again!
+    - **Cognitive Insight:** Dono baar Row 3 ki cheez ke liye `C3` likha jabki Column A tha. Ya toh "Cell 3 = C3" soch rahe hain ya Row 1=A, Row 2=B, Row 3=C soch rahe hain.
+  * **Status:** Pattern identified. One final friendly alignment needed for Topic 1.
 
 ---
 
